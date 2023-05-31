@@ -10,9 +10,10 @@ FREE STUFF!
 
 TRASH MAGIC!
 
+![](https://raw.githubusercontent.com/LafeLabs/triangle/main/trashmagic/triangle1.png)
+
 ![](https://raw.githubusercontent.com/LafeLabs/triangle/main/trashmagic/qrcode-page-triangle.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/triangle1.png)
 
 
 ### ZINE
