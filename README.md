@@ -15,6 +15,9 @@ TRASH MAGIC!
 ![](https://raw.githubusercontent.com/LafeLabs/triangle/main/trashmagic/qrcode-page-triangle.png)
 
 
+FREE PANTS!
+
+![](https://raw.githubusercontent.com/LafeLabs/trashmagic/main/media/trashmagic/freepants3.png)
 
 ### ZINE
 
@@ -31,7 +34,7 @@ sudo apt install php libapache2-mod-php -y
 cd /var/www/html
 sudo rm index.html
 sudo apt install curl
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/square/main/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/triangle/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html
