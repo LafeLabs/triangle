@@ -1,23 +1,19 @@
-# [SQUARE](https://www.github.com/lafelabs/square)
+# [TRIANGLE](https://www.github.com/lafelabs/triangle)
 
 ## [LOCALHOST](http://localhost/)
 
 ## [WWW.TRASHROBOT.ORG](https://www.trashrobot.org)
 
-A 4 INCH SQUARE OF CARDBOARD!
+A GOLDEN TRIANGLE MADE OF CARDBOARD WITH A BASE OF 1 CUBIT!
 
 FREE STUFF!
 
 TRASH MAGIC!
 
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/qrcode.png)
+![](https://raw.githubusercontent.com/LafeLabs/triangle/main/trashmagic/qrcode-page-triangle.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/trashmagic.png)
+![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/triangle1.png)
 
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/sloanslakedotart.png)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/square/main/trashmagic/squareflag.png)
 
 ### ZINE
 
