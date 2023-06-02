@@ -262,6 +262,8 @@ topcontrols  = [
 ];
 
 
+
+
 mainGVM.importbytecode(hypercube);
 mainGVM.hypercube[0207] = arrow;
 mainGVM.importbytecode(keyboard);
@@ -355,6 +357,7 @@ for(var index = 0;index < topcontrols.length;index++){
             newGVM.x0 = 1;
             newGVM.y0 = controlbuttonsize-1;
             newGVM.importbytecode(hypercube);
+    
             newGVM.importbytecode(shapestack);
             newGVM.action(0300);
             if(parseInt(rowarray[rowindex],8) >= 040 && parseInt(rowarray[rowindex],8) < 0177){
